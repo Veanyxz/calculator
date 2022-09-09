@@ -9,4 +9,4 @@ A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark
 
 
 Live Site : 
-http://kick.my.id/calculator/
+http://calculator.vean.my.id
